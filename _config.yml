@@ -55,8 +55,6 @@ footer_fixed: false
 # Dimensions
 max_width: 800px
 
-# TODO: add layout settings (single page vs. multi-page)
-
 # -----------------------------------------------------------------------------
 # Open Graph & Schema.org
 # -----------------------------------------------------------------------------
@@ -210,6 +208,7 @@ exclude:
   - Gemfile.lock
   - vendor
   - __backups
+  - __in_progress
   - .DS_Store
 keep_files:
   - CNAME
@@ -380,7 +379,7 @@ enable_tooltips:
   # for each section titles on pages and posts
 enable_darkmode: true # enables switching between light/dark modes
 enable_navbar_social:
-  false # enables displaying social links in the
+  true # enables displaying social links in the
   # navbar on the about page
 enable_project_categories:
   true # enables categorization of projects into
