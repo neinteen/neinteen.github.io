@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: Jannik Fix, aka. neinteen. <a href='https://github.com/neinteen'>Github</a>
+subtitle: Jannik Fix, aka. neinteen.
 
 profile:
   align: right
@@ -16,7 +16,6 @@ profile:
 news: true # includes a list of news items
 latest_posts: true # includes a list of the newest posts
 # selected_papers: true # includes a list of papers marked as "selected={true}"
-# TODO: social: true (rn the icons are too bulky)
 ---
 
 Hi, I'm Jannik,
