@@ -209,7 +209,7 @@ exclude:
   - Gemfile
   - Gemfile.lock
   - vendor
-  - __examples
+  - __backups
   - .DS_Store
 keep_files:
   - CNAME
