@@ -2,7 +2,7 @@
 layout: about
 title: about
 permalink: /
-subtitle: 'Jannik Fix, aka. neinteen. github: <a href='https://github.com/neinteen'>neinteen</a>'
+subtitle: Jannik Fix, aka. neinteen. <a href='https://github.com/neinteen'>Github</a>
 
 profile:
   align: right

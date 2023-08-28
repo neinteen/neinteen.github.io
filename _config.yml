@@ -210,6 +210,7 @@ exclude:
   - Gemfile.lock
   - vendor
   - __examples
+  - .DS_Store
 keep_files:
   - CNAME
   - .nojekyll
