@@ -6,7 +6,7 @@ subtitle: Jannik Fix, aka. neinteen. <a href='https://github.com/neinteen'>Githu
 
 profile:
   align: right
-  image: https://avatars.githubusercontent.com/u/81268320?v=4
+  image: avatar.jpg
   image_circular: true # crops the image to make it circular
   # address: >
   #  <p>555 your office number</p>
